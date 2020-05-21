@@ -3,7 +3,6 @@
 A command line application that generates a developer gitHub profile pdf document. The user is prompted for the developer name and a favorite color. 
 
 ![](https://gyazo.com/92b779b58b791b7b7fce1e258bfb50f9.gif)
-![](https://gyazo.com/d823eb75e6345fa7a1ec86ca0f149528.gif)
 ## Getting Started
 
 ### Prerequisites
