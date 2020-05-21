@@ -8,15 +8,15 @@ A command line application that generates a developer gitHub profile pdf documen
 ### Prerequisites
 
 ```
-run npm install
+Run npm install
 ```
 ### Running the application
 
-1. run npm start
-2. enter github username
-3. select color from prompt
-4. profile.pdf will be generated in root folder
-5. open and view pdf
+1. Run npm start
+2. Enter github username
+3. Select color from prompt
+4. Profile.pdf will be generated in root folder
+5. Open and view pdf
 
 ## Built With
 * Javascript.
