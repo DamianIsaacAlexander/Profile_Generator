@@ -19,7 +19,7 @@ Run npm install
 5. Open and view pdf
 
 ## Built With
-* Javascript.
-* Axios.
-* HTML-PDF.
-* Inquirer.
+* Javascript
+* Axios
+* HTML-PDF
+* Inquirer
